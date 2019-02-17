@@ -27,5 +27,25 @@ The -10 becomes the lawnmower when h = 10.
 When h <= 9, the grass keeps on growing.
 
 
+What's the point of an object?
+Organize your collection of variables to be used together, to help me keep track of things
+
+
+What's an example of a range you might use for the map function?
+
+
+
+What line of code would give me a random year in the last century?
+
+
+
+
+
+
+
+
+
+
+
 
 
