@@ -10,6 +10,7 @@ function draw() {
 
 
 What code makes the "lawnmower" come by? How often does it come by?
+
   if (random() > 0.999) {
     fill(255);
     rect(0, 0, width, height-15);
@@ -32,10 +33,11 @@ Organize your collection of variables to be used together, to help me keep track
 
 
 What's an example of a range you might use for the map function?
-
+r = map(mouseX, 0, 600, 0, 255);
 
 
 What line of code would give me a random year in the last century?
+var year = random(1919,2019);
 
 
 
