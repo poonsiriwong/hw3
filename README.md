@@ -19,7 +19,7 @@ What code makes the "lawnmower" come by? How often does it come by?
 It comes by randomly.
 
 What's the point of the h variable?
-It helps the grass grow taller.
+It allows the grass to grow taller, but when h = 10, the "lawnmower" will appear.
 
 
 What does the -10 do in the second and fourth arguments of the line function, height-10-random(h)? Why is it there?
